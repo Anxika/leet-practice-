@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anxika/leet-practice-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anxika/leet-practice-/tree/master/0540-single-element-in-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Anxika/leet-practice-/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Anxika/leet-practice-/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
