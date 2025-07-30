@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Anxika/leet-practice-/tree/master/0151-reverse-words-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Anxika/leet-practice-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
