@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Anxika/leet-practice-/tree/master/0175-combine-two-tables) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Anxika/leet-practice-/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Anxika/leet-practice-/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
