@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anxika/leet-practice-/tree/master/0001-two-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anxika/leet-practice-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0174-dungeon-game](https://github.com/Anxika/leet-practice-/tree/master/0174-dungeon-game) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anxika/leet-practice-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anxika/leet-practice-/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/Anxika/leet-practice-/tree/master/0174-dungeon-game) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/Anxika/leet-practice-/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->
